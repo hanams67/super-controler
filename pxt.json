@@ -4,7 +4,11 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "joystickbit": "github:tinkertanker/pxt-joystickbit#v1.0.2",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.1.13",
+        "JoyBit": "github:alsrobot-microbit-makecode-packages/alsrobotjoybit#1.1.1"
     },
     "files": [
         "main.blocks",
